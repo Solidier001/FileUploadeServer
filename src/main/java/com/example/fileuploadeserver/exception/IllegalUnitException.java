@@ -1,4 +1,4 @@
-package com.example.fileuploadeserver.Exception;
+package com.example.fileuploadeserver.exception;
 
 public class IllegalUnitException extends Exception{
 

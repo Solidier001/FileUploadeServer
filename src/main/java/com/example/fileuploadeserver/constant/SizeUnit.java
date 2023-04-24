@@ -1,6 +1,6 @@
-package com.example.fileuploadeserver.Constant;
+package com.example.fileuploadeserver.constant;
 
-import com.example.fileuploadeserver.Exception.IllegalUnitException;
+import com.example.fileuploadeserver.exception.IllegalUnitException;
 
 public enum SizeUnit {
     Bits(1),KB(1000),MB(1000000),GB(1000000000);
